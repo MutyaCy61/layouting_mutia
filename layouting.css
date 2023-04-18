@@ -1,0 +1,90 @@
+{
+    margin: ;
+    padding: ;
+    border: ;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+{
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: ;
+}
+  
+body {
+    font-family: arial, sans-serif;
+    background-color: #f3f3f3;
+    color: #555;
+}
+.container {
+    width: 900px;
+    margin: auto;
+    background-color: #fff;
+}
+.header {
+    background-color: mistyrose;
+    padding: 30px;
+} 
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.header .tagline {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+}
+.header a {
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+    padding: 7px;
+    background-color: blanchedalmond;
+} 
+.header a:hover {
+    background-color: darkblue;
+    color: white;
+}
+.content {
+    background-color: lightcyan;
+    padding: 30px;
+}
+.content h2 {
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.content .author {
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+.content p {
+    font: 13px/18px courier, monospace;
+    margin-bottom: 10px;
+}
+.footer {
+    padding: 10px 0px 10px 0px;
+    background-color: darkgrey;
+    color: black;
+    text-align: center;
+}
